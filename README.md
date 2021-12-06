@@ -14,3 +14,6 @@ Running Command
 ./yourfile
 
 If the folder contains a MakeFile please use it to compile
+
+Shoutout to Professor Lawton - I used some of his code to make the examples
+https://github.com/lawtonsclass
